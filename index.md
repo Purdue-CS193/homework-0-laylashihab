@@ -1,5 +1,8 @@
 ## Layla's First CS193 Homework
 
+- i like that there is only one lecture a week
+- and that there are no tests
+
 
 ## Welcome to GitHub Pages
 
